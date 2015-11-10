@@ -1,5 +1,5 @@
 // Adrian Melendez
-// This is really silly.
+// A silly program I made while taking Intro to C
 
 #include <stdio.h>
 #include <stdlib.h>
